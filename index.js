@@ -14,7 +14,7 @@
 // TASK 3 //
 // Create a pure function that will create and return a new DOM element,
 // but also allow you to assign its parent element, className, and id.
-// Parameters: (element, parent, className='', id='')
+// Parameters: (tag, parent, text, className='', id='')
 
 // TASK 4 //
 // Create an unordered list element inside of the header
